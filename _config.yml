@@ -1,2 +1,6 @@
-source: AnimalPedia-main/Login
-baseurl: /Testing-page-carlos/AnimalPedia-main/Login
+base_url: "/Testing-page-carlos"
+source: "AnimalPedia-main/Login"
+destination: "AnimalPedia-main/Login"
+include: ["index.html"]
+relative_permalinks: false
+permalink: AnimalPedia-main/Login/
